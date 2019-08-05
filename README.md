@@ -1,6 +1,6 @@
-# Cloud Native Programming
+# A Cloud Native Programming Manifesto
 
-## Manifesto
+## Values
 
 1. _Consistency_ over configuration -- that is, where possible we prefer to focus on code, not CRDs or yml or ReplicaSets or helm charts or Dockerfiles. 12-factor apps and serverless functions can help with this.
 1. _Monoliths_ over micro-services -- that is, where possible we resist breaking down a system in to more micro-services than required (generally, a service per team is a good rule-of-thumb)
