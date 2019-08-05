@@ -1,5 +1,7 @@
 # A Cloud Native Programming Manifesto
 
+**Status:** Super early pre-alpha strawman to get us started (is that enough disclaimers? ;-). Please open issues and pull-requests to discuss, all thoughts welcome!
+
 ## Values
 
 1. _Consistency_ over configuration -- that is, where possible we prefer to focus on code, not CRDs or yml or ReplicaSets or helm charts or Dockerfiles. 12-factor apps and serverless functions can help with this.
