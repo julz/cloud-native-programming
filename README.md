@@ -18,3 +18,8 @@ Code-to-container:
 
 - [Cloud Native Buildpacks](https://buildpacks.io) - Abstracts the details of building and updating containers from code
 - [Tekton](http://tekton.dev) - Kubernetes-native pipeline CRDs, useful for building code-to-container pipelines
+
+Related Manifestos:
+
+- [Agile Manifesto](http://agilemanifesto.org)
+- [The 12 Factor App](https://12factor.net)
