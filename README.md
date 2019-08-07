@@ -23,6 +23,7 @@ Code-to-container:
 
 Cloud Native Programming Languages:
 
+- [Storyscript](https://storyscript.io) - Top-level, polyglot programming language that seamlessly moves data between microservices and functions in a serverless way with zero-devops deployments into Kubernetes. **Open source** under Apache 2.0 at https://github.com/storyscript
 - [Dark](https://darklang.com) - Programming language that hides the details of deployment and infrastructure ([Why Dark?](https://darklang.com/whydark))
 
 Related Manifestos:
