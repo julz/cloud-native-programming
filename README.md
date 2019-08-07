@@ -21,6 +21,10 @@ Code-to-container:
 - [Cloud Native Buildpacks](https://buildpacks.io) - Abstracts the details of building and updating containers from code
 - [Tekton](http://tekton.dev) - Kubernetes-native pipeline CRDs, useful for building code-to-container pipelines
 
+Cloud Native Programming Languages:
+
+- [Dark](https://darklang.com) - Programming language that hides the details of deployment and infrastructure ([Why Dark?](https://darklang.com/whydark))
+
 Related Manifestos:
 
 - [Agile Manifesto](http://agilemanifesto.org)
