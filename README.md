@@ -29,3 +29,4 @@ Related Manifestos:
 
 - [Agile Manifesto](http://agilemanifesto.org)
 - [The 12 Factor App](https://12factor.net)
+- [AsyncAPI](https://asyncapi.com/) - Open source tools to easily build and maintain your event-driven architecture. 
